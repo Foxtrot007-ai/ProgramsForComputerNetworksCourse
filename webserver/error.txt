@@ -1,0 +1,63 @@
+Waiting for connection
+Connection Started
+ready: 1
+Bytes received: 323
+################################
+GET / HTTP/1.1
+Host: virbian:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+################################
+/
+virbian:8888
+keep-alive
+virbian:8888
+webpages/virbian
+Code: 301 
+335 bytes sent
+ready: 1
+Bytes received: 0
+################################
+GET / HTTP/1.1
+Host: virbian:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+################################
+/
+virbian:8888
+keep-alive
+virbian:8888
+webpages/virbian
+Code: 301 
+335 bytes sent
+ready: 1
+Bytes received: 0
+################################
+GET / HTTP/1.1
+Host: virbian:8888
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+################################
+/
+virbian:8888
+keep-alive
+virbian:8888
+webpages/virbian
